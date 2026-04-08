@@ -1,0 +1,5 @@
+.env
+venv/
+neofocus_log.db
+__pycache__/
+*.pyc
