@@ -1,4 +1,4 @@
-# 🧠 Neofocus — Real-time Emotion Detection System
+# 🧠 Emotion_Detection_System — Real-time Emotion Detection System
 
 A production-ready emotion detection pipeline built with **DeepFace**, **OpenCV**, and **Streamlit**.  
 Designed for USB webcams, with optimisations targeting **NVIDIA Jetson** (Xavier NX / Nano).
@@ -23,7 +23,7 @@ Designed for USB webcams, with optimisations targeting **NVIDIA Jetson** (Xavier
 ## Project Structure
 
 ```
-neofocus/
+Emotion_Detection_System/
 ├── app.py            # Webcam capture + DeepFace inference + logging + alerts
 ├── dashboard.py      # Streamlit dashboard
 ├── requirements.txt  # Python dependencies
@@ -36,8 +36,8 @@ neofocus/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/neofocus.git
-cd neofocus
+git clone https://github.com/YOUR_USERNAME/Emotion_Detection_System.git
+cd Emotion_Detection_System
 ```
 
 ### 2. Create a virtual environment
