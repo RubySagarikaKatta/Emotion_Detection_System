@@ -1,5 +1,5 @@
 .env
 venv/
-neofocus_log.db
+Emotion_Detection_System_log.db
 __pycache__/
 *.pyc
